@@ -1,0 +1,11 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:55:39.882278
+#+TITLE: 皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部
+#+PROPERTY: CBETA_ID T36n1743
+#+PROPERTY: ID KR6e0026
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1743
+#+PROPERTY: VOL 36
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS CBETA
+#+PROPERTY: LASTPB <pb:KR6e0026_T_000-1064c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+
